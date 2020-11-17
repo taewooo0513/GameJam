@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Block
+  - FastBolck
+  - FastBlock
+  - GreenBlock
   layers:
   - Default
   - TransparentFX
